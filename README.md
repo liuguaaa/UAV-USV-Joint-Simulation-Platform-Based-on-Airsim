@@ -12,7 +12,7 @@
    - Facilitate seamless integration with reinforcement learning environments.
 
 ## **How to use**
-1.First, you need to install Airsim ([https://zhuanlan.zhihu.com/p/551918529](https://microsoft.github.io/AirSim/build_windows/))
+1.First, you need to install Airsim (https://microsoft.github.io/AirSim/build_windows/)
 
 2.Then, clone the files from this project to your local machine using Git, and replace all the files in `Airsim\AirSim-main\Unreal\Environments\Blocks\Content` with the files cloned locally.
 
