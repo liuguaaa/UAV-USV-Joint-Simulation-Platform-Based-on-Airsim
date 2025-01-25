@@ -12,6 +12,3 @@
    - Facilitate seamless integration with reinforcement learning environments.
 
 ---
-
-## **Project Status**
-The project is still being organized and is expected to be open-sourced in **April 2025**.
